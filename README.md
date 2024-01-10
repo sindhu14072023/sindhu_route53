@@ -15,5 +15,6 @@ Global Load Balancing with Amazon Route 53
 •	Set up CloudWatch alarms to monitor the health of your resources and Define thresholds for metrics like latency, error rates, and other relevant metrics.
 •	Create CloudWatch Alarms to trigger notifications or automated actions when thresholds are breached.
 •	Continuously monitor and analyze the performance of your application and infrastructure using CloudWatch metrics.
+![image](https://github.com/sindhu14072023/sindhu_route53/assets/153921370/ac9e7694-b46d-4f98-bb38-a8b2a9a5ea09)
 
 
